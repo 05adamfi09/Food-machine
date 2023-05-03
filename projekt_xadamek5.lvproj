@@ -13,6 +13,7 @@
 		<Item Name="Item.ctl" Type="VI" URL="../Item.ctl"/>
 		<Item Name="loadItems.vi" Type="VI" URL="../loadItems.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="Message Queue.lvlib" Type="Library" URL="../../../../../../Desktop/daqproj vyreseno/Message Queue/Message Queue.lvlib"/>
 		<Item Name="saveItems.vi" Type="VI" URL="../saveItems.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
