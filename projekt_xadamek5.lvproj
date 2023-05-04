@@ -13,7 +13,7 @@
 		<Item Name="Item.ctl" Type="VI" URL="../Item.ctl"/>
 		<Item Name="loadItems.vi" Type="VI" URL="../loadItems.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-		<Item Name="Message Queue.lvlib" Type="Library" URL="../../../../../../Desktop/daqproj vyreseno/Message Queue/Message Queue.lvlib"/>
+		<Item Name="Message Queue.lvlib" Type="Library" URL="../Message Queue/Message Queue.lvlib"/>
 		<Item Name="saveItems.vi" Type="VI" URL="../saveItems.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -29,6 +29,10 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Dequeue Message.vi" Type="VI" URL="../../../../../../Desktop/daqproj vyreseno/Message Queue/Dequeue Message.vi"/>
+			<Item Name="Enqueue Message (Single).vi" Type="VI" URL="../../../../../../Desktop/daqproj vyreseno/Message Queue/Enqueue Message (Single).vi"/>
+			<Item Name="Enqueue Message.vi" Type="VI" URL="../../../../../../Desktop/daqproj vyreseno/Message Queue/Enqueue Message.vi"/>
+			<Item Name="Obtain Message Queue.vi" Type="VI" URL="../../../../../../Desktop/daqproj vyreseno/Message Queue/Obtain Message Queue.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
