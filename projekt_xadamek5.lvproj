@@ -15,7 +15,7 @@
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="loadItems.vi" Type="VI" URL="../loadItems.vi"/>
 		<Item Name="saveItems.vi" Type="VI" URL="../saveItems.vi"/>
-		<Item Name="Message Queue.lvlib" Type="Library" URL="../../../../../../Desktop/daqproj vyreseno/Message Queue/Message Queue.lvlib"/>
+		<Item Name="Message Queue.lvlib" Type="Library" URL="../Message Queue/Message Queue.lvlib"/>
 		<Item Name="FGVtime.vi" Type="VI" URL="../FGVtime.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
